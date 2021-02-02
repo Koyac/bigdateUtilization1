@@ -1,0 +1,2 @@
+# bigdateUtilization1
+ビッグデータ活用のためのレポジトリ
